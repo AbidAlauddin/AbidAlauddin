@@ -39,15 +39,7 @@ const abid = {
   <table>
     <tr>
       <td align="center" width="96">
-        <script src="https://cdn.lordicon.com/lordicon.js"></script>
-          <lord-icon
-              src="https://cdn.lordicon.com/keldjfda.json"
-              trigger="in"
-              delay="1500"
-              stroke="bold"
-              state="in-reveal"
-              style="width:250px;height:250px">
-          </lord-icon>
+        ![Image](https://github.com/user-attachments/assets/22da48dd-19f7-4c34-b26b-5fee04f0eee4)
         <br>PHP
       </td>
       <td align="center" width="96">
