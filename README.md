@@ -39,7 +39,7 @@ const abid = {
   <table>
     <tr>
       <td align="center" width="96">
-        ![Image](https://github.com/user-attachments/assets/22da48dd-19f7-4c34-b26b-5fee04f0eee4)
+        <img src="![Image](https://github.com/user-attachments/assets/22da48dd-19f7-4c34-b26b-5fee04f0eee4)" alt="JS" width="65" height="65" />
         <br>PHP
       </td>
       <td align="center" width="96">
