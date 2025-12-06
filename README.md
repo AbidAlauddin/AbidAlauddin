@@ -39,12 +39,12 @@ const abid = {
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
-        <br>PHP
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="65" height="65" />
+        <br>Javascript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="Laravel" width="65" height="65" />
-        <br>Laravel
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+        <br>REST API
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
@@ -59,8 +59,8 @@ const abid = {
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" height="65" />
-        <br>VS Code
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
       </td>
     </tr>
   </table>
