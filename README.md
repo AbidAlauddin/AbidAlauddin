@@ -39,6 +39,10 @@ const abid = {
   <table>
     <tr>
       <td align="center" width="96">
+        <img src="https://https://cdn.lordicon.com/keldjfda.json" alt="PHP" width="65" height="65" />
+        <br>PHP
+      </td>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="65" height="65" />
         <br>Javascript
       </td>
@@ -68,9 +72,9 @@ const abid = {
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=abidalauddin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbidAlauddin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidalauddin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlauddin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
